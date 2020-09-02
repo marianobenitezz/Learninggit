@@ -1,2 +1,5 @@
 # Learninggit
-Repository where i'll be learning how to use GitHub
+
+-> Repository where i'll be learning how to use GitHub
+
+:)
